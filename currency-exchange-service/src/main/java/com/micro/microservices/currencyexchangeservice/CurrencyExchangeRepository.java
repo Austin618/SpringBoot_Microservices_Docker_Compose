@@ -1,4 +1,4 @@
-package com.micro.microservices.currencyexachangeservice;
+package com.micro.microservices.currencyexchangeservice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
